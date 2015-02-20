@@ -43,3 +43,5 @@ Temporary Items
 .apdisk
 /ClaimsFormsAuth.v11.suo
 ClaimsFormsAuth.v11.suo
+/*.gitattributes
+/*.gitignore
