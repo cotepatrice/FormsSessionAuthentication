@@ -8,6 +8,5 @@ C:\git\FormsSessionAuthentication\ClaimsFormsAuth\bin\ClaimsFormsAuth.dll
 C:\git\FormsSessionAuthentication\ClaimsFormsAuth\bin\ClaimsFormsAuth.pdb
 C:\git\FormsSessionAuthentication\ClaimsFormsAuth\bin\EntityFramework.dll
 C:\git\FormsSessionAuthentication\ClaimsFormsAuth\bin\EntityFramework.xml
-C:\git\FormsSessionAuthentication\ClaimsFormsAuth\obj\Debug\ClaimsFormsAuth.csprojResolveAssemblyReference.cache
 C:\git\FormsSessionAuthentication\ClaimsFormsAuth\obj\Debug\ClaimsFormsAuth.dll
 C:\git\FormsSessionAuthentication\ClaimsFormsAuth\obj\Debug\ClaimsFormsAuth.pdb
