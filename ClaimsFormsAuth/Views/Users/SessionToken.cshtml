@@ -1,0 +1,18 @@
+﻿@model Thinktecture.IdentityServer.Samples.RelyingParty.Web.Models.SessionTokenModel
+
+@{
+    ViewBag.Title = "SessionToken";
+}
+
+<h2>SessionToken</h2>
+
+<fieldset>
+    <legend>Session Token Details</legend>
+
+    @Html.DisplayForModel()
+
+</fieldset>
+<p>
+    @Html.ActionLink("XML raw", "SessionTokenRaw", "Users") |
+    @Html.ActionLink("XML decoded", "SessionTokenDecoded", "Users")
+</p>
